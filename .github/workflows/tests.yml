@@ -175,3 +175,4 @@ jobs:
           name: installed-scenario-evidence
           path: dist/pr-scenarios/
           if-no-files-found: error
+# fork-only: registers this workflow in the measurement fork
